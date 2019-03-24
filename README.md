@@ -14,5 +14,6 @@ Adding a change into the file
 
 Trying out the git push -u command
 
-new feature branch changing the tree
+new feature branch changing the trees
+
  

@@ -18,3 +18,5 @@ Adding a change into the file
 Trying out the git push -u command
  
 Yet another change
+
+Master also checking the tree structure

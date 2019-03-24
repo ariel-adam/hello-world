@@ -5,6 +5,9 @@ My first repository :-)
 Enhancing the redme file as an excerise 
 
 Creating a change from a new branch
+
+# new-feature # another change just for the fun
+
 Adding a change into the file
 
 # new-feature changes # Adding a line
